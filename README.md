@@ -1,7 +1,7 @@
 # California Housing Price Prediction
 
-## 📌 Project Overview
-This project explores the **California Housing dataset** to predict median house prices. I built a comprehensive machine learning pipeline to preprocess data and compare multiple regression strategies.
+## 📌 Project Overview & Key Findings
+This project analyzes the California Housing Dataset to predict median house values using advanced regression techniques. By implementing a robust Scikit-Learn pipeline and comparing multiple models, I achieved a high-accuracy predictive framework.
 
 ---
 
